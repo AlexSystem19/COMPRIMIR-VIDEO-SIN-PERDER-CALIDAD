@@ -1,4 +1,4 @@
-# Python + ffmpeg — Comprime video para Gemini sin pagar nada
+# Python + ffmpeg — Comprime video sin pagar nada
 
 > 7 GB → 170 MB. Resultado real. Probado en grabaciones de sala con Excel en pantalla.
 
